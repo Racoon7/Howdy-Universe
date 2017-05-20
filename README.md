@@ -1,2 +1,3 @@
 # Howdy-Universe
-A test repository for learning github
+This is a test repository for learning github.
+
